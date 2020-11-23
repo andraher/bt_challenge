@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="542560e6-a1cd-4c6f-b40f-9a1fb03cc94c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/OTP/verify.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/commandlinetools/Laravel_11_11_20__3_51_PM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/otp_login.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/php-test-framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.vs/otp_login/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Controllers/VerifyOTPController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/TwoFA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Http/Requests/OTPRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Mail/OTPMail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/js/components/Example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/OTP.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/OTP/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/exemple.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/tests/Feature/EmailTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/tests/Feature/LoginTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/tests/Feature/VerifyOTPTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otp_login/webpack.mix.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.11">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/client-core" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kNI1kxcbxT8NrrXIBqm0T0tsYw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.ResendOTPTest">
+    <configuration name="EmailTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\EmailTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/EmailTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" directory="$PROJECT_DIR$/tests/Feature" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\LoginTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/LoginTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ResendOTPTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ResendOTPTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/ResendOTPTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VerifyOTPTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\VerifyOTPTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/VerifyOTPTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ResendOTPTest" />
+        <item itemvalue="PHPUnit.EmailTest" />
+        <item itemvalue="PHPUnit.VerifyOTPTest" />
+        <item itemvalue="PHPUnit.LoginTest" />
+        <item itemvalue="PHPUnit.Feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="542560e6-a1cd-4c6f-b40f-9a1fb03cc94c" name="Default Changelist" comment="" />
+      <created>1605534411555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605534411555</updated>
+      <workItem from="1605534412753" duration="85598000" />
+      <workItem from="1605867050958" duration="1545000" />
+      <workItem from="1605868703316" duration="18243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="67" key="#CLI_Interpreters" timestamp="1605538104367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605538104367" />
+    <state x="482" y="55" key="#PHP" timestamp="1605538129677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="55" key="#PHP/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605538129677" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605747947148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1605747947148" />
+    <state x="530" y="73" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605795143117">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="73" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605536949173" />
+    <state x="530" y="73" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1605795143117" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605799744661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605561098489" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605799744661" />
+    <state width="723" height="161" key="GridCell.Tab.0.bottom" timestamp="1606126423128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605567166142" />
+    <state width="723" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606126423128" />
+    <state width="723" height="161" key="GridCell.Tab.0.center" timestamp="1606126423127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605567166142" />
+    <state width="723" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606126423127" />
+    <state width="723" height="161" key="GridCell.Tab.0.left" timestamp="1606126423127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605567166142" />
+    <state width="723" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606126423127" />
+    <state width="723" height="161" key="GridCell.Tab.0.right" timestamp="1606126423127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605567166142" />
+    <state width="723" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606126423127" />
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom" timestamp="1605868598842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605868598842" />
+    <state width="1493" height="223" key="GridCell.Tab.1.center" timestamp="1605868598842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605868598842" />
+    <state width="1493" height="223" key="GridCell.Tab.1.left" timestamp="1605868598842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605868598842" />
+    <state width="1493" height="223" key="GridCell.Tab.1.right" timestamp="1605868598842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605868598842" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605561024353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1600.0.1600.860/1920.0.1920.1040@0.0.1536.824" timestamp="1605561024353" />
+    <state x="758" y="190" key="run.anything.popup" timestamp="1605800977126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="758" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605800977126" />
+  </component>
+</project>
